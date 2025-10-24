@@ -1,0 +1,19 @@
+{
+  "name": "shopsphere-website",
+  "version": "1.0.0",
+  "description": "ShopSphere - Simplify Your E-commerce Operations",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site ready'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "e-commerce",
+    "website",
+    "static-site",
+    "shopsphere"
+  ],
+  "author": "ShopSphere Team",
+  "license": "MIT"
+}
